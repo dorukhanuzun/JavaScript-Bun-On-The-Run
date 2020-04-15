@@ -106,7 +106,7 @@ To create this "Bun on the Run" menu app the following JavaScript concepts were 
     previousMenu.addEventListener("click", prev);
     nextMenu.addEventListener("click", next);
     ```
-    The reason for adding click event handlers is so that call the functions. When we click the previousMenu button, prev function will work, also if we click nextMenu button next function will work.
+    The reason for adding click event handlers is so that call the functions. When we click the previous button, prev function will work, also if we click next button next function will work.
 
 1.  Finally, I called the init function. If I don't call this function, I can't see the changes.
     ```js
