@@ -35,7 +35,7 @@ To create this "Bun on the Run" menu app the following JavaScript concepts were 
     The reason why I did that is because we want to show first element of the array first. Then we will increment and decrement later.
     
 
-1. Next I selected all elements with querySelector ans assigned them to const variables(nextMenu, soup etc..)
+1. Next I selected all elements with querySelector and assigned them to const variables(nextMenu, soup etc..)
     ```js
     const nextMenu = document.querySelector('#nextButton');
     const previousMenu = document.querySelector('#previousButton');
