@@ -4,7 +4,7 @@
 
 This vanilla JavaScript web app displays various daily menus which can be viewed by clicking either the next or previous buttons.  
 
-![Image of app](app.JPG)
+![Application's Screenshot](app.png)
 
 ## Concepts Learned
 
